@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TodoApp\\TodoApp\\TodoApp\\TodoApp.Models\\TodoApp.Models.csproj",
+      "projectUniqueName": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.Models\\TodoApp.Models.csproj",
       "projectName": "TodoApp.Models",
-      "projectPath": "C:\\TodoApp\\TodoApp\\TodoApp\\TodoApp.Models\\TodoApp.Models.csproj",
+      "projectPath": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.Models\\TodoApp.Models.csproj",
       "packagesPath": "C:\\Users\\Home_User2\\.nuget\\packages\\",
-      "outputPath": "C:\\TodoApp\\TodoApp\\TodoApp\\TodoApp.Models\\obj\\",
+      "outputPath": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

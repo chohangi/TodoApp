@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleApp\\TodoApp.ConsoleApp.csproj": {}
+    "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleAppFile\\TodoApp.ConsoleAppFile.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleApp\\TodoApp.ConsoleApp.csproj": {
+    "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleAppFile\\TodoApp.ConsoleAppFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleApp\\TodoApp.ConsoleApp.csproj",
-        "projectName": "TodoApp.ConsoleApp",
-        "projectPath": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleApp\\TodoApp.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleAppFile\\TodoApp.ConsoleAppFile.csproj",
+        "projectName": "TodoApp.ConsoleAppFile",
+        "projectPath": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleAppFile\\TodoApp.ConsoleAppFile.csproj",
         "packagesPath": "C:\\Users\\Home_User2\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleAppFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

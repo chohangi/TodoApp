@@ -7,3 +7,12 @@ C:\TodoApp\TodoApp\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Model
 C:\TodoApp\TodoApp\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.pdb
 C:\TodoApp\TodoApp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.dll
 C:\TodoApp\TodoApp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.pdb
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.deps.json
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.dll
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.pdb
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.csprojAssemblyReference.cache
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.AssemblyInfoInputs.cache
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.AssemblyInfo.cs
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.csproj.CoreCompileInputs.cache
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.dll
+C:\Temp\TodoApp\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.pdb

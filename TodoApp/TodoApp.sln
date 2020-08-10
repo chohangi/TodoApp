@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.Models", "TodoApp.Models\TodoApp.Models.csproj", "{1989D50C-829F-4DB0-8EAC-818C5D544EAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApp.Models", "TodoApp.Models\TodoApp.Models.csproj", "{1989D50C-829F-4DB0-8EAC-818C5D544EAB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{0EEF6F5D-132E-4B9E-9BE5-B743CAE66A2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.ConsoleApp", "TodoApp.ConsoleApp\TodoApp.ConsoleApp.csproj", "{95FAEC38-BD5E-473F-8BA6-7A44A98C9189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApp.ConsoleApp", "TodoApp.ConsoleApp\TodoApp.ConsoleApp.csproj", "{95FAEC38-BD5E-473F-8BA6-7A44A98C9189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.ConsoleAppFile", "TodoApp.ConsoleAppFile\TodoApp.ConsoleAppFile.csproj", "{1DDC128D-BDAD-4DB4-A135-1556984885A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{95FAEC38-BD5E-473F-8BA6-7A44A98C9189}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95FAEC38-BD5E-473F-8BA6-7A44A98C9189}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95FAEC38-BD5E-473F-8BA6-7A44A98C9189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDC128D-BDAD-4DB4-A135-1556984885A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDC128D-BDAD-4DB4-A135-1556984885A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDC128D-BDAD-4DB4-A135-1556984885A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDC128D-BDAD-4DB4-A135-1556984885A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

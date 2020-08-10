@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vrTxDDH2/aNTvMQef4hfj8yiAB0mM6FUSmPazxUpeKbOTQOBJA5kdb1FJL12BERqu7I/a/trNt32c29fF4MBqA==",
+  "dgSpecHash": "GbfyK07ovzGXj1hWCDxS8SYIlVNm2scvEXEtGHqsrmHxTgPcas3DD9AR+y89id1k6q8pvjpcI1VBWwnHCkYEbw==",
   "success": true,
-  "projectFilePath": "C:\\TodoApp\\TodoApp\\TodoApp\\TodoApp.ConsoleApp\\TodoApp.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Temp\\TodoApp\\TodoApp\\TodoApp.ConsoleApp\\TodoApp.ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

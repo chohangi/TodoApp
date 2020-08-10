@@ -1,0 +1,16 @@
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\bin\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.exe
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\bin\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.deps.json
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\bin\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.runtimeconfig.json
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\bin\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.runtimeconfig.dev.json
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\bin\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.dll
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\bin\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.pdb
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\bin\Debug\netcoreapp3.1\TodoApp.Models.dll
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\bin\Debug\netcoreapp3.1\TodoApp.Models.pdb
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\obj\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.csprojAssemblyReference.cache
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\obj\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.AssemblyInfoInputs.cache
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\obj\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.AssemblyInfo.cs
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\obj\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.csproj.CoreCompileInputs.cache
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\obj\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.csproj.CopyComplete
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\obj\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.dll
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\obj\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.pdb
+C:\Temp\TodoApp\TodoApp\TodoApp.ConsoleAppFile\obj\Debug\netcoreapp3.1\TodoApp.ConsoleAppFile.genruntimeconfig.cache
